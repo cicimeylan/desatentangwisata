@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pinktua">#F44336</color>
+    <color name="merah">#D32f2f</color>
+    <color name="pinkmuda">#ffcdd2</color>
+    <color name="hijautua">#009688</color>
+    <color name="black">#212121</color>
+    <color name="abutua">#727272</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#b6b6b6</color>
+    <color name="colorOrange">#d67601</color>
+    <color name="colorBlue">#5fb0c9</color>
+    <color name="Bluelagi">#3da8c9</color>
+</resources>

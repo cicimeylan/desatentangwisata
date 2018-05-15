@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DesaWisata</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_place">Maps</string>
+    <string name="title_rating">Rating</string>
+    <string name="deskripsi_yogyakarta">Yogyakarta merupakan salah satu daerah di Indonesia yang merupakan tempat tujuan wisata yang banyak diminati oleh para turis , baik domestik maupun mancanegara.\n\n
+    Daerah ini lebih dikenal dengan nama JOGJA , dan mempunyai tagline "JOGJA ISTIMEWA".
+    Lokasi daerah ini berada di tengah-tengah pulau Jawa bagian selatan , lebih tepatnya berada disebelah selatan Gunung Merapi. \n\n
+    Nama Lengkap dari JOGJAKARTA sebenarnya adalah Daerah Istimewa Yogyakarta (DIY) yang saat ini menjadi daerah setingkat provinsi.\n\n
+    Dikatakan daerah Istimewa karena Yogyakarta merupakan salah satu daerah yang diistimewakan di Negara Indonesia.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
